@@ -1,4 +1,4 @@
-
+hi this is a adacemic group project for final year BMSCE CSE,bath14
 INSTRUCTIONS-
 1) Download and install Ganache (https://www.trufflesuite.com/ganache)
 2) Download and install Xampserver on windows (https://www.apachefriends.org/download.html) or MAMP on MacOS X (https://www.mamp.info/en/windows/)
